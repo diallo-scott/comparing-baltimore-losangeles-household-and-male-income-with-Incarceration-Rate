@@ -25,7 +25,7 @@ https://github.com/diallo-scott/comparing-baltimore-losangeles-household-and-mal
 Note: The visualizations above can be found in the tab entitled "Bmore & LA Male Income v Prison". This workbook also contains tabs with other data visualizations that did not directly contribute to the focused results presented above.  These visualizations include household income and incarceration rates for the individual tracts of each city.  These were not pictured above due to the fact they are much harder to read. 
 
 Link to Spreadsheets with Raw Data:
-https://github.com/diallo-scott/comparing-baltimore-losangeles-household-and-male-income-with-Incarceration-Rate/blob/master/Baltimore%20Household%20Income.csv
+https://github.com/diallo-scott/comparing-baltimore-losangeles-household-and-male-income-with-Incarceration-Rate/tree/master/Raw%20Excel%20Data
 Note: The aggregated raw data can also be found on tabs in the spreadsheet with the analyzed data.
 
 
