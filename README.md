@@ -11,6 +11,8 @@ Link to Excel Spreadsheet with Analyzed Data :
 https://github.com/diallo-scott/comparing-baltimore-losangeles-household-and-male-income-with-Incarceration-Rate/blob/master/Business%20Analytics%20Mini%20Project%201.xlsx
 
 Link to Spreadsheets with Raw Data:
+https://github.com/diallo-scott/comparing-baltimore-losangeles-household-and-male-income-with-Incarceration-Rate/blob/master/Baltimore%20Household%20Income.csv
+
 
 
 
