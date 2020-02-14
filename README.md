@@ -11,7 +11,7 @@ My initial thought that Los Angeles would have both higher incomes and lower inc
 
 When considering male income and incarceration rates, I was surprised at the results. Male income was similar across the two cities with Los Angeles' result being just $2600 higher. Given that the difference in male income between the two cities is not very sigificant, one may expect similar incarceration rates, yet this was not the case.  Baltimore's overall incarceration rate is 4.6% but that of Los Angeles is 1.6%.  The chart below shows this information.
 
-![chartimage](https://github.com/diallo-scott/comparing-baltimore-losangeles-household-and-male-income-with-Incarceration-Rate/blob/master/Average%20Male%20Income%20and%20Incaceration.png)
+![chartimage](https://github.com/diallo-scott/comparing-baltimore-losangeles-household-and-male-income-with-Incarceration-Rate/blob/master/Male%20Income%20and%20Incarceration%20Rate%20in%20Los%20Angeles%20and%20Baltimore.png)
 
 These results proved that male income may not be the best metric to use as a gauge for how high incarceration rates may be.  At least when comparing Baltimore and Los Angeles, we can see that household income has more of a link with the incarceration rate than just the male income.
 
