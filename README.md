@@ -11,11 +11,22 @@ When considering male income and incarceration rates, I was surprised at the res
 
 ![chartimage](https://github.com/diallo-scott/comparing-baltimore-losangeles-household-and-male-income-with-Incarceration-Rate/blob/master/Average%20Male%20Income%20and%20Incaceration.png)
 
+These results proved that male income may not be the best metric to use as a gauge for how high incarceration rates may be.  At least when comparing Baltimore and Los Angeles, we can see that household income has more of a link with the incarceration rate than just the male income.
+
+Step-by-step Guide to Excel Manipulation for Pictured Charts:
+1. Download data on household income, male income, and incarceration rate from the Opportunity Atlas for both Los Angeles and     Baltimore
+2. Use VLOOKUP function to aggregate data for each city on individual sheets in the same workbook, so that we now have one tab for Los Angeles and one for Baltimore
+3. Create pivot table for each of the two sheets
+4. Now we can easily see the average household income, male income, and incarceration rates for individual tracts in each city and the city as a whole.
+5. Use the entire city averages to create two charts: one that plots household income and incarceration rate together and another with male income and incarceration
+
 Link to Excel Spreadsheet with Analyzed Data :
 https://github.com/diallo-scott/comparing-baltimore-losangeles-household-and-male-income-with-Incarceration-Rate/blob/master/Business%20Analytics%20Mini%20Project%201.xlsx
+Note: The visualizations above can be found in the tab entitled "Bmore & LA Male Income v Prison". This workbook also contains tabs with other data visualizations that did not directly contribute to the focused results presented above.  These visualizations include household income and incarceration rates for the individual tracts of each city.  These were not pictured above due to the fact they are much harder to read. 
 
 Link to Spreadsheets with Raw Data:
 https://github.com/diallo-scott/comparing-baltimore-losangeles-household-and-male-income-with-Incarceration-Rate/blob/master/Baltimore%20Household%20Income.csv
+Note: The aggregated raw data can also be found on tabs in the spreadsheet with the analyzed data.
 
 
 
